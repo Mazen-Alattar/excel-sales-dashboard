@@ -59,7 +59,7 @@ The project demonstrates practical experience with **Power Query, Power Pivot, a
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
+<img src="https://raw.githubusercontent.com/Mazen-Alattar/Excel-Sales-Dashboard/main/images/dashboard_preview.png" width="900">
 
 ---
 
