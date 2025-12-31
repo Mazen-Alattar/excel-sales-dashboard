@@ -1,4 +1,5 @@
 # 📊 Sales Data Analysis Dashboard (Excel)
+<img src="https://raw.githubusercontent.com/Mazen-Alattar/excel-sales-dashboard/refs/heads/main/Excel-Sales-Dashboard/images/dashboard_preview.png" width="900">
 
 ## 📌 Project Overview
 This project analyzes real-world sales data from work-related activities using Microsoft Excel.  
@@ -51,15 +52,10 @@ The project demonstrates practical experience with **Power Query, Power Pivot, a
 
 ### Calculated Columns
 - **Total Sales** was calculated using the following formula:  
-- Total Sales = Quantity * Price per Unit
+         Total Sales = Quantity * Price per Unit
 - The calculation was:
 - Implemented once using **Power Query**
 - Recreated using **DAX** after merging tables in **Power Pivot**
-
----
-
-## 📊 Dashboard Preview
-<img src="https://raw.githubusercontent.com/Mazen-Alattar/Excel-Sales-Dashboard/main/images/dashboard_preview.png" width="900">
 
 ---
 
